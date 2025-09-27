@@ -35,6 +35,6 @@ app.get('/api/about', authBearer,
         { id: 2, name:'Budi', job: 'Technical Report' },
         { id: 3, name: 'Cindy', job: 'Front-end Programmer' },
         { id: 4, name: 'Deli', job: 'UI/UX Designer' },
-        { id: 5, name: 'Erlang', job: 'Marketing' }
+        { id: 5, name: 'Erlangga', job: 'Marketing' }
     ]);
 });
